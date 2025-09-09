@@ -1,10 +1,10 @@
 # Flight Booking System
 
-A complete flight booking website built with React frontend and Node.js/Express backend, featuring Uganda and East Africa routes.
+This is complete flight booking website built with React frontend and Node.js/Express backend, featuring Uganda and East Africa routes.
 
 ## Features
 
-### Frontend (React + TailwindCSS)
+### Simple GuideLine
 - **Homepage**: Search form for flights with origin, destination, date, and passenger count
 - **Search Results**: Display available flights with details and pricing
 - **Booking Page**: Passenger information form and booking confirmation
