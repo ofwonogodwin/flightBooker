@@ -141,18 +141,18 @@ npm run build
 
 ## Features Implemented
 
-✅ **Homepage with search form**
-✅ **Flight search results display**
-✅ **Flight booking with passenger details**
-✅ **Booking confirmation page**
-✅ **Responsive design with TailwindCSS**
-✅ **REST API for flights and bookings**
-✅ **Sample Uganda flight routes**
-✅ **Booking ID generation**
-✅ **In-memory data storage**
-✅ **Error handling and loading states**
-✅ **Form validation**
-✅ **Clean, modern UI/UX**
+**Homepage with search form**
+**Flight search results display**
+**Flight booking with passenger details**
+**Booking confirmation page**
+**Responsive design with TailwindCSS**
+**REST API for flights and bookings**
+**Sample Uganda flight routes**
+**Booking ID generation**
+**In-memory data storage**
+**Error handling and loading states**
+**Form validation**
+**Clean, modern UI/UX**
 
 ## Demo Data
 
