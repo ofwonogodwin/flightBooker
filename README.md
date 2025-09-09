@@ -16,32 +16,6 @@ This is complete flight booking website built with React frontend and Node.js/Ex
 - **Booking API**: Create and manage flight bookings
 - **Sample Data**: Pre-loaded Uganda routes (Entebbe-Kampala, Entebbe-Nairobi)
 - **In-Memory Storage**: Temporary booking storage for demo purposes
-
-## Project Structure
-
-```
-flightSystem/
-├── backend/
-│   ├── package.json
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── HomePage.js
-│   │   │   ├── SearchResults.js
-│   │   │   ├── BookingPage.js
-│   │   │   ├── ConfirmationPage.js
-│   │   │   └── Navbar.js
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── index.css
-│   ├── package.json
-│   ├── tailwind.config.js
-│   └── postcss.config.js
-└── README.md
-```
-
 ## Getting Started
 
 ### Prerequisites
@@ -203,5 +177,4 @@ If ports 3000 or 5000 are in use, you can change them:
 This project is for educational and demonstration purposes.
 
 ## Author
-
-Built for flight booking demonstration with Uganda and East Africa routes.
+Godwin Ofwono
