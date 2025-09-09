@@ -24,9 +24,9 @@ This is a complete flight booking website built with React frontend and Node.js/
 
 ### Installation & Setup
 
-1. **Clone or navigate to the project directory:**
+1. **Clone  the project directory:**
    ```bash
-   cd /home/godwin-ofwono/Desktop/flightSystem
+   git clone ...
    ```
 
 2. **Set up the Backend:**
@@ -80,9 +80,9 @@ Content-Type: application/json
 
 {
   "flightId": 1,
-  "passengerName": "John Doe",
-  "email": "john@example.com",
-  "phone": "+256123456789",
+  "passengerName": "Godwin Ofwono",
+  "email": "godwinofwono933@gmail.com",
+  "phone": "+256757013189",
   "passengers": 2
 }
 ```
